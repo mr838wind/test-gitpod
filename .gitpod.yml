@@ -22,7 +22,13 @@ github:
     # enable for all branches in this repo (defaults to false)
     branches: false
 
+vscode:
+  extensions:
+    - pivotal.vscode-spring-boot
+    - vscjava.vscode-java-pack
+
 jetbrains:
   intellij:
+    plugins:
     prebuilds:
-      version: stable
+      version: both
