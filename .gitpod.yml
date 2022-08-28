@@ -29,6 +29,5 @@ vscode:
 
 jetbrains:
   intellij:
-    plugins:
     prebuilds:
       version: both
